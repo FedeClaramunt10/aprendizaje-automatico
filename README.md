@@ -9,7 +9,7 @@ Trabajos prácticos de la materia Aprendizaje Automático de la Tecnicatura en A
 | [TP1-Aprendizaje-Automatico.ipynb](notebooks/TP1-Aprendizaje-Automatico.ipynb) | TP principal: predicción de precios de vehículos usados en Argentina (`argentina_cars.csv`) con métodos supervisados. |
 | [Claramunt_Federico_10_Clustering_ITSE.ipynb](notebooks/Claramunt_Federico_10_Clustering_ITSE.ipynb) | Métodos no supervisados: clustering (K-Means y método del codo) sobre un dataset público de jugadores. |
 | [ApjeAutom_Grupo2_...ipynb](notebooks/ApjeAutom_Grupo2_Claramunt-Federico_Ojo-de-Agua.ipynb) | Entrega grupal: misma problemática de predicción de precios resuelta en equipo. |
-| [Claramunt_Federico_..._Examen_set_2026.ipynb](notebooks/Claramunt_Federico_36595523_Examen_set_2026.ipynb) | Examen: clasificación sobre el Breast Cancer Wisconsin Dataset (scikit-learn). |
+| [Claramunt_Federico_..._Examen_set_2026.ipynb](notebooks/Claramunt_Federico_Examen_set_2026.ipynb) | Examen: clasificación sobre el Breast Cancer Wisconsin Dataset (scikit-learn). |
 
 Todos los notebooks se publican ejecutados, con sus salidas y gráficos, y se pueden leer directamente en GitHub.
 
