@@ -1,6 +1,6 @@
-# Aprendizaje Automático
+﻿# Aprendizaje Automático
 
-Trabajos prácticos de la materia Aprendizaje Automático de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: métodos supervisados (clasificación y regresión) y no supervisados (clustering).
+Trabajos prácticos de la materia Aprendizaje Automático de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: métodos supervisados (clasificación y regresión) y no supervisados (clustering).
 
 ## Notebooks
 
